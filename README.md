@@ -1,0 +1,2 @@
+# RussCoin
+Russell Token

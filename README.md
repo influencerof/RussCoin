@@ -1,4 +1,4 @@
-# ERC20 Token Generator
+# Russ Coin
 
 [![Build Status](https://travis-ci.org/vittominacori/erc20-generator.svg?branch=master)](https://travis-ci.org/vittominacori/erc20-generator)
 [![Coverage Status](https://coveralls.io/repos/github/vittominacori/erc20-generator/badge.svg?branch=master)](https://coveralls.io/github/vittominacori/erc20-generator?branch=master)
@@ -10,93 +10,13 @@ Token has a Role Based Access Control so you can add the `minter` permission to 
 
 Token has a `trasferEnabled` property. Nobody can transfer tokens until the property will be enabled or you can define users as `operator` allowed to transfer also if not enabled.
 
-DApp here [https://vittominacori.github.io/erc20-generator](https://vittominacori.github.io/erc20-generator)
+Contract here [Etherscan](https://etherscan.io/address/0x40421860BD68dC6c751DE64D926e56E690F24BF1)
 
-DApp source here [https://github.com/vittominacori/erc20-generator/tree/dapp](https://github.com/vittominacori/erc20-generator/tree/dapp)
+Want some?  [Telegram](https://t.me/joinchat/Hj6RRxiswZTugaoOvQ46Mw)
 
-## Development
 
-### Install dependencies
 
-```bash
-npm install
-```
 
-### Usage (using Truffle)
-
-Open the Truffle console
-
-```bash
-npm run console
-```
-
-#### Compile
-
-```bash
-npm run compile
-```
-
-#### Test
-
-```bash
-npm run test
-```
-
-### Usage (using Buidler)
-
-Open the Buidler console
-
-```bash
-npm run buidler:console
-```
-
-#### Compile
-
-```bash
-npm run buidler:compile
-```
-
-#### Test
-
-```bash
-npm run buidler:test
-```
-
-### Code Coverage
-
-```bash
-npm run coverage
-```
-
-## Linter
-
-Use Solhint
-
-```bash
-npm run lint:sol
-```
-
-Use ESLint
-
-```bash
-npm run lint:js
-```
-
-Use ESLint and fix
-
-```bash
-npm run lint:fix
-```
-
-## Flattener
-
-This allow to flatten the code into a single file
-
-Edit `scripts/flat.sh` to add your contracts
-
-```bash
-npm run flat
-```
 
 ## Token verification on Etherscan
 
@@ -107,4 +27,4 @@ Solc version is 0.5.15
 
 ## License
 
-Code released under the [MIT License](https://github.com/vittominacori/erc20-generator/blob/master/LICENSE).
+Code released under the [MIT License](https://github.com/influencerof/russcoin/LICENSE).

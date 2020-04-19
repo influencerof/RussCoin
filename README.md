@@ -1,3 +1,8 @@
+![GitHub Logo](https://rlh.design/wp-content/uploads/2020/04/russ.png)
+
+
+
+
 # Russ Coin
 
 [![Build Status](https://travis-ci.org/vittominacori/erc20-generator.svg?branch=master)](https://travis-ci.org/vittominacori/erc20-generator)
